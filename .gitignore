@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Thumbs.db
 *.obj
 *.exe
@@ -27,3 +28,17 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 *.vssscc
 $tf*/
+=======
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+>>>>>>> 7dc54df9c346b9375933efdf90f63fa44a5ba7f9
